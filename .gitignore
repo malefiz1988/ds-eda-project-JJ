@@ -128,4 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-**ds_store
+.DS_Store
+.ipynb_checkpoints
+.vscode
+/us_bank_wages
